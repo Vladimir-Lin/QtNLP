@@ -1,0 +1,10 @@
+SOURCES += $${PWD}/nNlpLrNode.cpp
+SOURCES += $${PWD}/nNlpLrProblem.cpp
+SOURCES += $${PWD}/nNlpLrParameter.cpp
+SOURCES += $${PWD}/nNlpLrFunction.cpp
+SOURCES += $${PWD}/nNlpLrL2R.cpp
+SOURCES += $${PWD}/nNlpLrL2Svc.cpp
+SOURCES += $${PWD}/nNlpLrL2Svr.cpp
+SOURCES += $${PWD}/nNlpLrSolver.cpp
+SOURCES += $${PWD}/nNlpLrTron.cpp
+SOURCES += $${PWD}/nNlpLinear.cpp
